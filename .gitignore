@@ -32,3 +32,6 @@ out
 
 # nyc
 .nyc_output
+
+
+.env
